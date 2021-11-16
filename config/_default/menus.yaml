@@ -1,0 +1,94 @@
+leftnav:
+- identifier: f446a4d9-569b-122f-4184-00c4261614f0
+  name: Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: dcbeb6ff-c772-463d-4382-510968d9b3a2
+  name: Overview
+  parent: f446a4d9-569b-122f-4184-00c4261614f0
+  url: /pages/syllabus/overview
+  weight: 20
+- identifier: 5a95f650-85b0-4cd4-8efc-71277dcd0594
+  name: Instructors
+  parent: f446a4d9-569b-122f-4184-00c4261614f0
+  url: /pages/syllabus/instructors
+  weight: 30
+- identifier: 4c6bc964-b2ea-579a-2ce8-9e3638988583
+  name: Course Requirements
+  parent: f446a4d9-569b-122f-4184-00c4261614f0
+  url: /pages/syllabus/course-requirements
+  weight: 40
+- identifier: 586f9b2a-afd4-0b11-48b2-6a2f9b1869df
+  name: Class Routines
+  parent: f446a4d9-569b-122f-4184-00c4261614f0
+  url: /pages/syllabus/class-routines
+  weight: 50
+- identifier: 9ebe280e-734f-e8a6-eaef-c69cdc49abb0
+  name: Notes on Assignments
+  parent: f446a4d9-569b-122f-4184-00c4261614f0
+  url: /pages/syllabus/assignment-notes
+  weight: 60
+- identifier: ab2af4cd-4e79-b4f4-76d9-067f11d6e850
+  name: Exercises to Prepare
+  parent: f446a4d9-569b-122f-4184-00c4261614f0
+  url: /pages/syllabus/exercise-to-prepare
+  weight: 70
+- identifier: 008cb48c-f161-c8e9-0503-c37768300110
+  name: Calendar
+  url: /pages/calendar
+  weight: 80
+- identifier: 18a24a2c-47d3-bd88-acfb-f992c59b8871
+  name: Project 1
+  url: /pages/project-1/
+  weight: 90
+- identifier: 4ad42b5f-bb69-b2a9-7c95-87f72baf634e
+  name: Sequence of Steps and Classes
+  parent: 18a24a2c-47d3-bd88-acfb-f992c59b8871
+  url: /pages/project-1/sequence
+  weight: 100
+- identifier: fe6651e6-3867-ca9c-4c91-fb770a432c36
+  name: References
+  parent: 18a24a2c-47d3-bd88-acfb-f992c59b8871
+  url: /pages/project-1/references
+  weight: 110
+- identifier: 61a72732-2135-95b0-b56f-badd63e12490
+  name: Project 2
+  url: /pages/project-2/
+  weight: 120
+- identifier: 5772d855-aaf3-4da4-db0c-b8c76b0c6f32
+  name: Sequence of Steps and Classes
+  parent: 61a72732-2135-95b0-b56f-badd63e12490
+  url: /pages/project-2/sequence
+  weight: 130
+- identifier: 233ff384-caf7-b1af-6425-f3098e1bc73e
+  name: References
+  parent: 61a72732-2135-95b0-b56f-badd63e12490
+  url: /pages/project-2/references
+  weight: 140
+- identifier: bd61e886-b98d-09e5-9fdd-cf99177895ce
+  name: Project 3
+  url: /pages/project-3/
+  weight: 150
+- identifier: f0405fc0-8adb-02cc-73e0-559bf1b1185f
+  name: Sequence of Steps and Classes
+  parent: bd61e886-b98d-09e5-9fdd-cf99177895ce
+  url: /pages/project-3/sequence
+  weight: 160
+- identifier: ec2a84f1-d55c-0dd6-d7a9-d5436a667363
+  name: References
+  parent: bd61e886-b98d-09e5-9fdd-cf99177895ce
+  url: /pages/project-3/references
+  weight: 170
+- identifier: 75c878be-f548-3cfb-fb1d-1bf47c77aaa0
+  name: Project 4
+  url: /pages/project-4/
+  weight: 180
+- identifier: 84b1b20c-c12e-ece4-9d32-3d78f915da3f
+  name: Sequence of Steps and Classes
+  parent: 75c878be-f548-3cfb-fb1d-1bf47c77aaa0
+  url: /pages/project-4/sequence
+  weight: 190
+- identifier: 578b6beb-d426-9fc7-3ecd-2b028e9cdfe4
+  name: Bibliography
+  url: /pages/bibliography
+  weight: 200
